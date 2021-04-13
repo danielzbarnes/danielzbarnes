@@ -1,1 +1,1 @@
-# readme
+Hello! My name is Daniel.  I am a 3D artist with a specialization in Character Setup.  I have developed for my own use many scripts for use within 3D development platforms such as Autodesk Maya.  Recently, I have been getting into Android development, learning Kotlin and the Android Architecture.
